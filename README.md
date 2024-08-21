@@ -4,17 +4,20 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝗗𝗘𝗦𝗧𝗥𝗢𝗬𝗘𝗥+🚩+🍁"></b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2> <img src="https://github.com/Adithakur008/DESTROYER-SESSION-HACK/blob/main/res/cat_gif.gif" width="90px"> DESTROYER 🌿 <img src = "https://github.com/Adithakur008/DESTROYER-SESSION-HACK/blob/main/res/cat1.gif" width="90px"> </h1>
+
 <h3 align = center>A telegram bot that control user id effortlessly whether its Pyrogram or Telethon (user string only)</h3>
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
 <br>
-    <img src="https://img.shields.io/github/stars/itzshukla/STRANGER-SESSION-HACK?style=for-the-badge" alt="Stars">
-    <img src="https://img.shields.io/github/forks/itzshukla/STRANGER-SESSION-HACK?style=for-the-badge" alt="Forks">
-    <img src="https://img.shields.io/github/watchers/itzshukla/STRANGER-SESSION-HACK?style=for-the-badge" alt="Watchers"> 
+    <img src="https://img.shields.io/github/stars/Adithakur008/DESTROYER-SESSION-HACK?style=for-the-badge" alt="Stars">
+    <img src="https://img.shields.io/github/forks/Adithakur008/DESTROYER-SESSION-HACK?style=for-the-badge" alt="Forks">
+    <img src="https://img.shields.io/github/watchers/itzshukla/Adithakur008/DESTROYER-SESSION-HACK?style=for-the-badge" alt="Watchers"> 
 <br>
-    <img src="https://img.shields.io/github/repo-size/itzshukla/STRANGER-SESSION-HACK?style=for-the-badge" alt="Repository Size">
-    <img src="https://img.shields.io/github/contributors/itzshukla/STRANGER-SESSION-HACK?style=for-the-badge" alt="Contributors">
-    <img src="https://img.shields.io/github/issues/itzshukla/STRANGER-SESSION-HACK?style=for-the-badge" alt="Issues">
+    <img src="https://img.shields.io/github/repo-size/Adithakur008/DESTROYER-SESSION-HACK?style=for-the-badge" alt="Repository Size">
+    <img src="https://img.shields.io/github/contributors/Adithakur008/DESTROYER-SESSION-HACK?style=for-the-badge" alt="Contributors">
+    <img src="https://img.shields.io/github/issues/Adithakur008/DESTROYER-SESSION-HACK?style=for-the-badge" alt="Issues">
 </p>
 
 ## Config Vars
@@ -69,17 +72,11 @@ python3 -m Hack
 
 ### 🚀 ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
   
-  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/itzshukla/STRANGER-SESSION-HACK"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Adithakur008/DESTROYER-SESSION-HACK"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 ## Support
 
-- [Channel](https://t.me/SHIVANSH474)
-- [Group](https://t.me/MASTIWITHFRIENDSXD)
-- [Heroku by](t.me/SHIVANSH39)
-
-## Credits
-
-- [Telethon](https://github.com/LonamiWebs/Telethon)
-- [Ultroid](https://github.com/TeamUltroid/Ultroid)
-- [Heroku Deployer](t.me/SHIVANSH39)
+- [Channel](https://t.me/PROFESSOR_77XX)
+- [Group](https://t.me/+qYRBJgZsARpkNWJl)
+- [Heroku by](t.me/PROFESSOR_77X)
