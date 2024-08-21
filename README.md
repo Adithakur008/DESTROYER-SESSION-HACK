@@ -1,4 +1,9 @@
-<h1 align= center>Telegram Session Controller Bot</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h1 align= center>🍁𝘥𝘦𝘴𝘵𝘳𝘰𝘺𝘦𝘳 𝘹 𝘱𝘳𝘰𝘧𝘦𝘴𝘴𝘰𝘳 
+𝘴𝘦𝘴𝘴𝘪𝘰𝘯 𝘩𝘢𝘤𝘬 𝘣𝘰𝘵 🍁</h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝗗𝗘𝗦𝗧𝗥𝗢𝗬𝗘𝗥+🚩+🍁"></b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align = center>A telegram bot that control user id effortlessly whether its Pyrogram or Telethon (user string only)</h3>
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
