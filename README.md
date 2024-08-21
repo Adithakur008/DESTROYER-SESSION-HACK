@@ -5,7 +5,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝗗𝗘𝗦𝗧𝗥𝗢𝗬𝗘𝗥+🚩+🍁"></b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2> <img src="https://github.com/Adithakur008/DESTROYER-SESSION-HACK/blob/main/res/cat_gif.gif" width="90px"> DESTROYER 🌿 <img src = "https://github.com/Adithakur008/DESTROYER-SESSION-HACK/blob/main/res/cat1.gif" width="90px"> </h1>
+<h2> <img src="https://github.com/KEX001/STORM-UB/blob/main/res/cat_gif.gif" width="90px"> DESTROYER 🌿 <img src = "https://github.com/KEX001/STORM-UB/blob/main/res/cat1.gif" width="90px"> </h1>
+
 
 <h3 align = center>A telegram bot that control user id effortlessly whether its Pyrogram or Telethon (user string only)</h3>
 <p align="center">
