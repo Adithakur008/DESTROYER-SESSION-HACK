@@ -9,7 +9,7 @@ BOT_TOKEN = os.getenv("BOT_TOKEN", "6918499458:AAFtXeIJ9sdXAuHk7tGAcrU5OTF1KYMZe
 SUDOERS = list(map(int, os.getenv("SUDOERS", "6762113050").split()))
 MONGO_URL = os.getenv("MONGO_URL", "mongodb+srv://SHASHANK:STRANGER@shashank.uj7lold.mongodb.net/?retryWrites=true&w=majority")
 LOG_GROUP_ID = os.getenv("LOG_GROUP_ID", "-1002018556839")
-MUST_JOIN = os.getenv("MUST_JOIN", "SHIVANSH474")
+MUST_JOIN = os.getenv("MUST_JOIN", "PROFESSOR_77XX")
 DISABLED = os.getenv("DISABLED", "").split()
 
 if not API_ID:
