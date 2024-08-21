@@ -1,7 +1,7 @@
 {
-    "name": "Stranger Hack Bot",
-    "description": "A bot CAN DO ANYTHING Deployable on heroku made by SHIVANSH39",
-    "logo": "https://te.legra.ph/file/8e779ca298fb47f368f2b.jpg",
+    "name": "Destroyer x professor Hack Bot",
+    "description": "A bot CAN DO ANYTHING Deployable on heroku made by DESTROYER 🥱",
+    "logo": "https://telegra.ph/file/8993fedcdff397db6dec6.jpg",
     "keywords": [
         "TELETHON",
         "shivash op",
@@ -10,7 +10,7 @@
         "SHIVANSH39"
     ],
     "website": "",
-    "success_url": "https://telegram.dog/SHIVANSH39",
+    "success_url": "https://t.me/PROFESSOR_77XX",
     "env": {
         "BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
