@@ -8,7 +8,7 @@
   <img src="https://telegra.ph/file/8993fedcdff397db6dec6.jpg">
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h2> <img src="https://github.com/Adithakur008/DESTROYER-SESSION-HACK/blob/main/res/cat_gif.gif" width="90px"> DESTROYER 🌿 <img src = "https://github.com/Adithakur008/DESTROYER-SESSION-HACK/blob/main/res/cat1.gif" width="90px"> </h1>
+<h2> <img src="https://github.com/Adithakur008/DESTROYER-SESSION-HACK/blob/main/cat_gif.gif" width="90px"> DESTROYER 🌿 <img src = "https://github.com/Adithakur008/DESTROYER-SESSION-HACK/blob/main/cat1.gif" width="90px"> </h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align = center>A telegram bot that control user id effortlessly whether its Pyrogram or Telethon (user string only)</h3>
