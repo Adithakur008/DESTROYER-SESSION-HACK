@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝗗𝗘𝗦𝗧𝗥𝗢𝗬𝗘𝗥+🚩+🍁"></b>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-  <img src="https://graph.org/file/c3b279aee41f8bbe6466b.jpg">
+  <img src="https://telegra.ph/file/8993fedcdff397db6dec6.jpg">
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2> <img src="https://github.com/KEX001/STORM-UB/blob/main/res/cat_gif.gif" width="90px"> DESTROYER 🌿 <img src = "https://github.com/KEX001/STORM-UB/blob/main/res/cat1.gif" width="90px"> </h1>
@@ -15,7 +15,8 @@
 <p align="center">
 <a href="https://python.org"><img src="http://forthebadge.com/images/badges/made-with-python.svg" alt="made-with-python"></a>
 <br>
-    <img src="https://img.shields.io/github/stars/Adithakur008/DESTROYER-SESSION-HACK?style=for-the-badge" alt="Stars">
+    <img 
+src="https://img.shields.io/github/stars/Adithakur008/DESTROYER-SESSION-HACK?style=for-the-badge" alt="Stars">
     <img src="https://img.shields.io/github/forks/Adithakur008/DESTROYER-SESSION-HACK?style=for-the-badge" alt="Forks">
     <img src="https://img.shields.io/github/watchers/itzshukla/Adithakur008/DESTROYER-SESSION-HACK?style=for-the-badge" alt="Watchers"> 
 <br>
@@ -23,7 +24,7 @@
     <img src="https://img.shields.io/github/contributors/Adithakur008/DESTROYER-SESSION-HACK?style=for-the-badge" alt="Contributors">
     <img src="https://img.shields.io/github/issues/Adithakur008/DESTROYER-SESSION-HACK?style=for-the-badge" alt="Issues">
 </p>
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## Config Vars
 
 1. `API_ID` : Telegram API_ID, get it from my.telegram.org/apps
@@ -34,7 +35,7 @@
 6. `LOG_GROUP_ID` : Your channel's or group's Telegram id (Example: -1001246808642)
 7. `MUST_JOIN` : Telegram channel(username) for force subs
 8. `DISABLED`: Menu names which you want to disable, without space (Example: a b j)
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## Deployment Methods
 
 ### Vps
