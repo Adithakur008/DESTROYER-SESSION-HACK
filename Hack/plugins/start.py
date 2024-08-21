@@ -8,9 +8,7 @@ from telethon import events
 
 @bot.on(events.NewMessage(pattern="/start"))
 async def start(event):
-   <p align="center">
-  <img src="https://telegra.ph/file/8993fedcdff397db6dec6.jpg">
-</p>
+
     id = event.sender_id
     mention = f"[{event.sender.first_name}](tg://user?id={id})"
     TEXT = "ʜᴇʏ {}, ɪ ᴀᴍ ᴀ ᴅᴇsᴛʀᴏʏᴇʀ x ᴘʀᴏғᴇssᴏʀ ʜᴀᴄᴋ ʙᴏᴛ sᴜᴘᴘᴏʀᴛɪɴɢ ʙᴏᴛʜ ᴘʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ sᴇssɪᴏɴ sᴛʀɪɴɢ. ᴛʏᴘᴇ /hack ᴛᴏ sᴇᴇ ᴍᴇɴᴜ"
