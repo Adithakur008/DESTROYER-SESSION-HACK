@@ -1,1 +1,1 @@
-python3 server.py & python3 -m Faded
+python3 server.py & python3 -m Hack
