@@ -4,7 +4,7 @@ services:
     name: Hack
     env: python
     buildCommand: pip install -U -r requirements.txt
-    startCommand: python3 server.py & python3 -m Faded  
+    startCommand: python3 server.py & python3 -m Hack 
  repo:
 https://github.com/Adithakur008/DESTROYER-SESSION-HACK  
     branch: master
